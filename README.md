@@ -32,3 +32,4 @@ Add the bot to a group where it is an admin.
 The bot will automatically manage group activity as per its configured logic.
 }
 Arigato pls use the bot wisely
+ 
