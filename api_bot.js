@@ -15,7 +15,7 @@ const downtimeMessage = "📢 **DOWNTIME PROTOCOL ACTIVE**. The primary operator
 const client = new Client({
     authStrategy: new LocalAuth({ clientId: "ares_gme_1" }), 
     puppeteer: {
-        executablePath: '/usr/bin/google-chrome-stable', 
+        executablePath: '/usr/bin/chromium',
         args: [
             '--no-sandbox', 
             '--disable-setuid-sandbox',
