@@ -1,0 +1,24 @@
+2025/10/24-20:32:41.528 43bd Reusing MANIFEST /home/aizen/whatsapp-bot/.wwebjs_auth/session-ares_gme_1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/24-20:32:41.529 43bd Recovering log #75
+2025/10/24-20:32:41.569 43bd Reusing old log /home/aizen/whatsapp-bot/.wwebjs_auth/session-ares_gme_1/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000075.log 
+2025/10/24-20:32:44.902 43c3 Level-0 table #81: started
+2025/10/24-20:32:45.012 43c3 Level-0 table #81: 145305 bytes OK
+2025/10/24-20:32:45.123 43c3 Delete type=0 #75
+2025/10/24-20:32:45.124 43bb Manual compaction at level-0 from '\x00%\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00&\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/24-20:32:45.125 43bb Level-0 table #83: started
+2025/10/24-20:32:45.201 43bb Level-0 table #83: 2240 bytes OK
+2025/10/24-20:32:45.268 43bb Delete type=0 #80
+2025/10/24-20:32:45.269 43ba Manual compaction at level-0 from '\x00&\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at '\x00&\x00\x00\x05' @ 95751 : 0
+2025/10/24-20:32:45.269 43ba Compacting 1@0 + 1@1 files
+2025/10/24-20:32:45.323 43ba Generated table #84@0: 3739 keys, 87356 bytes
+2025/10/24-20:32:45.323 43ba Compacted 1@0 + 1@1 files => 87356 bytes
+2025/10/24-20:32:45.390 43ba compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/24-20:32:45.390 43ba Delete type=2 #83
+2025/10/24-20:32:45.391 43ba Manual compaction at level-0 from '\x00&\x00\x00\x05' @ 95751 : 0 .. '\x00'\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/24-20:32:47.252 43bb Compacting 1@1 + 1@2 files
+2025/10/24-20:32:47.612 43bb Generated table #85@1: 19763 keys, 1053317 bytes
+2025/10/24-20:32:47.612 43bb Compacted 1@1 + 1@2 files => 1053317 bytes
+2025/10/24-20:32:47.945 43bb compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/24-20:32:47.945 43bb Delete type=2 #78
+2025/10/24-20:32:47.945 43bb Delete type=2 #81
+2025/10/24-20:32:47.945 43bb Delete type=2 #84
